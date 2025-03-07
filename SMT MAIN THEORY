@@ -1,0 +1,38 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\title{Singularity Mechanics Theory: Unifying Quantum Resonance and Gravity with Fractional-Bit AI}
+\author{Rodney Arnold}
+\date{March 2025}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We propose Singularity Mechanics Theory (SMT) and Quantum Resonance Field Theory (QRFT), predicting a nonlinear frequency shift \(\Delta f = 1.00 \times f^{0.50} - 0.0037\), resolving the black hole information paradox via quantum entanglement and fractional-bit AI simulations.
+\end{abstract}
+
+\section{Introduction}
+[Describe GR, QM, quantum gravity, and your motivation...]
+
+\section{Methods}
+[Detail SMT, QRFT, \(\Delta f\), fractional-bit AI, and modified EFE...]
+
+\section{Results}
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{plot12.png}
+\caption{Nonlinear scaling of frequency deviations with increasing gravity, showing \(\Delta f = 40 \, \text{Hz}\) at 2000 Hz.}
+\label{fig:plot12}
+\end{figure}
+
+\section{Discussion}
+[Link to quantum gravity, paradox resolution, future work...]
+
+\section{Conclusion}
+[Summarize impact...]
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
